@@ -1,3 +1,3 @@
 # ruby-intro-conditionals
 
-https://learn.firstdraft.com/lessons/74
+https://learn.firstdraft.com/lessons/74-ruby-intro-conditionals

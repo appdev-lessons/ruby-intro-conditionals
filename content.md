@@ -268,7 +268,7 @@ p "It picked the " + s
     - Yes!
 {: .free_text #multibranch_conditional title="Pick the giraffe part 1" points="1" answer="1" }
 
-- In the above code, what `String` method could you use to modify `n` and have it print `It picked the second part`? (Hint: have a look at [the `String` lesson](https://learn.firstdraft.com/lessons/69).)
+- In the above code, what `String` method could you use to modify `n` and have it print `It picked the second part`? (Hint: have a look at [the `String` lesson](https://learn.firstdraft.com/lessons/69-ruby-intro-string).)
 - capitalize
     - Yes! 
 - n = n.capitalize
@@ -355,7 +355,7 @@ Write a program to decide if the randomly `sample`d `word` from the array is a p
 
 Simply display `true` if it is a palindrome and `false` if it isn't. Do not display `"true"` or `"false"` (as `String`s), display the result of a conditional (`true` or `false`).
 
-(Hint: you will need a couple of methods from the [`String` lesson](https://learn.firstdraft.com/lessons/69). Specifically, one of the `case` methods and `reverse`.)
+(Hint: you will need a couple of methods from the [`String` lesson](https://learn.firstdraft.com/lessons/69-ruby-intro-string). Specifically, one of the `case` methods and `reverse`.)
 
 ```ruby
 word = ["HanNah", "racecars", "racecar"].sample
